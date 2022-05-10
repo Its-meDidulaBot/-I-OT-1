@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
+  <img src="https://i.ibb.co/JnwkfJP/logo-fc681ccd.png" width="300" height="300">
 
   <h1>💎 DIDULA BOT 💎</h1>
 
