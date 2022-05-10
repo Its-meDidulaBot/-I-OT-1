@@ -1,7 +1,7 @@
 {
-    "name": "queen_amdi",
-    "version": "3.6.2v",
-    "description": "Queen Amdi Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+    "name": "Didula Bot",
+    "version": "1v",
+    "description": "Didula Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
     "main": "./QueenAmdi/assets/module.js",
     "scripts": {
       "start": "supervisor -s assets/module.js"
@@ -13,13 +13,13 @@
     "keywords": [
       "whatsapp"
     ],
-    "author": "Black Amda",
-    "developer": "AN Tech",
+    "author": "Didula Bot",
+    "developer": "Didfa Tech",
     "license": "GPL-3.0-or-later",
     "bugs": {
       "url": "https://github.com/BlackAmda/QueenAmdi/issues"
     },
-    "homepage": "https://github.com/BlackAmda/QueenAmdi#readme",
+    "homepage": "https://github.com/Its-meDidulaBot/-I-OT-1#readme",
     "dependencies": {
       "@blackamda/queenamdi-web-api": "^1.0.2",
       "queenamdi-public": "^1.1.1",
