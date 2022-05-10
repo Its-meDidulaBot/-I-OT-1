@@ -14,11 +14,10 @@
 	
 	
 	
-### Deploy 💎 DIDULA BOT 💎 Bot
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Its-meDidulaBot/-I-OT-1.git)
+### [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/BlackAmda/QueenAmdi-v3)
 </div>
 
+----
 
 	
 	
@@ -27,8 +26,4 @@
 - [Join Oficial Whatsapp Group](https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP)
 
 
-### Deploy OLD v3 Queen Amdi Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Its-meDidulaBot/-I-OT-1)
-
-</div>
