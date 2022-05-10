@@ -16,7 +16,7 @@
 	
 ### Deploy 💎 DIDULA BOT 💎 Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Its-meDidulaBot/-I-OT-1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Its-meDidulaBot/-I-OT-1.git)
 
 
 
